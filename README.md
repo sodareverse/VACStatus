@@ -1,3 +1,12 @@
+# 🛒 Linked sites to the hacks mentioned in this repository.
+#### https://insanitycheats.com - InsanityCheats 🟢
+#### https://420cheats.com - 420Cheats 🟢
+#### https://darkaim.com/ - Darkaim 🟢
+#### https://undetek.com/ - Undetek 😎
+#### https://icheat.io/ - ICheat 🟢
+
+
+
 #### Announcement 📢
 The issue for NVidia drivers and AMD Drivers seems to have been fixed by Valve, open a support ticket on steam to get unbanned 🟢.
 We have a discord community, wanna join us see what hacks are detected and what not? Join us at https://discord.gg/6nJGVKafFU
