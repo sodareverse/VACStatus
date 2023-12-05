@@ -12,9 +12,9 @@ Do not update your NVidia graphic drivers, with this you might trigger a ban.
 Undetek.com is currently Undetected.
 
 ### Some other hack statuses:
-# Aimware - Use on your own risk 🟡
-# Primordial - Use on your own risk 🟡
-# Neverlose - Undetected 🟢
-# Memesense - Undetected 🟢
+#### Aimware - Use on your own risk 🟡
+#### Primordial - Use on your own risk 🟡
+#### Neverlose - Undetected 🟢
+#### Memesense - Undetected 🟢
 
 # Please note that this repository will ALWAYS be updated with the newest news on the main page.
