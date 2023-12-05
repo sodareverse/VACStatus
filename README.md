@@ -1,6 +1,5 @@
 #### Announcement 📢
-NVidia drivers are causing possible bans, DO NOT UPDATE YOUR DRIVERS 🔴
-This also includes AMD drivers. 😎 Valve is actively doing detection waves.
+The issue for NVidia drivers and AMD Drivers seems to have been fixed by Valve, open a support ticket on steam to get unbanned 🟢.
 
 # ValveAntiCheatStatus
 This repository will show the newest news on VAC for CS2.
