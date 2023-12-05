@@ -1,7 +1,8 @@
 #### Announcement 📢
 The issue for NVidia drivers and AMD Drivers seems to have been fixed by Valve, open a support ticket on steam to get unbanned 🟢.
+We have a discord community, wanna join us see what hacks are detected and what not? Join us at https://discord.gg/6nJGVKafFU
 
-# ValveAntiCheatStatus
+# VAC Status
 This repository will show the newest news on VAC for CS2.
 
 ### Status meaning
@@ -33,4 +34,12 @@ This repository will show the newest news on VAC for CS2.
 #### Undetek - Undetected 🟢 😎
 
 
-#### Please note that this repository will ALWAYS be updated with the newest news about Counter-Strike.
+# Its importnant to note some stuff you should be aware of
+You aren't always safe to cheat on Counter-Strike as any hack can get ban waved at any point of moment, this repository actively checks what cheats have possibilities to get a ban wave.
+
+
+### How?
+We get info from users who have used the hacks in previous games.
+
+### Possible trust factor issues in hacks:
+### 😎 We have currently not found a trust factor issue in any hack, we are actively researching this :=)
