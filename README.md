@@ -8,10 +8,10 @@ This repository will show the newest news on VAC for CS2.
 Undetek.com is currently Undetected.
 
 ### Status meaning
-🟡 - Use on your own risk Undetected/Detected
-🟢 - Undetected and safe to use
-🔴 - Detected and shouldn't be used
-⚫ - Unknown or the hack is not out yet
+#### 🟡 - Use on your own risk Undetected/Detected
+#### 🟢 - Undetected and safe to use
+#### 🔴 - Detected and shouldn't be used
+#### ⚫ - Unknown or the hack is not out yet
 
 ### Some other hack statuses:
 #### Aimware - Use on your own risk 🟡
