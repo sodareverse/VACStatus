@@ -17,4 +17,4 @@ Undetek.com is currently Undetected.
 #### Neverlose - Undetected 🟢
 #### Memesense - Undetected 🟢
 
-# Please note that this repository will ALWAYS be updated with the newest news on the main page.
+#### Please note that this repository will ALWAYS be updated with the newest news on the main page.
