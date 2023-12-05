@@ -42,4 +42,4 @@ You aren't always safe to cheat on Counter-Strike as any hack can get ban waved 
 We get info from users who have used the hacks in previous games.
 
 ### Possible trust factor issues in hacks:
-### 😎 We have currently not found a trust factor issue in any hack, we are actively researching this :=)
+#### 😎 We have currently not found a trust factor issue in any hack, we are actively researching this :=)
